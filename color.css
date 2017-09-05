@@ -1,0 +1,28 @@
+.yellow {
+	background-color:yellow; 
+	width:800px; 
+	height:450px;
+	float:left;
+}
+.red {
+	background-color:red;
+	width:50px;
+	height:450px;
+	float:right;
+}
+.pink {
+	background-color:pink;
+	width:550px;
+	height:450px;
+	float: center;
+}
+.white {
+	color:white;
+}
+.black {
+		background-color:black;
+	width:550px;
+	height:450px;
+	float: right;
+}
+ 
